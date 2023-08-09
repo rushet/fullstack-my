@@ -105,7 +105,7 @@ app.delete('/products/:egyediAzonosito', (req, res) => {
 });
 
 app.listen(3000);
-
+// modify this function, enhance
 function sanitizeString(str){
   str = str.replace(/[^a-z0-9áéíóúñü_-\s\.,]/gim,"");
   return str.trim();
