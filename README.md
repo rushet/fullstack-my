@@ -1,2 +1,2 @@
 # fullstack3
-Full stack nodejs
+Full stack nodejs full details
